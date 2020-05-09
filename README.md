@@ -1,5 +1,5 @@
-# May-Challenge
-Leetcode's May Challenge
+# Leetcode's May-Challenge
+This challenge consists of 31 daily problems over the month of May. A problem is added each day, and you have 24 hours to make a valid submission for it in order to be eligible for rewards.
 
 
 | Serial No. | Question Link  | Topic | Difficulty | Star |
