@@ -11,3 +11,4 @@ Leetcode's May Challenge
 | 5. | https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3320/  | String/Hashing       | Easy | `No`
 | 6. | https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3321/  | Hashing       | Easy | `Yes`
 | 8. | https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3323/  | Hashing       | Easy | `No`
+| 9. | https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3324/  | Binary Search       | Easy | `Yes`
