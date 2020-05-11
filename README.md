@@ -10,6 +10,7 @@ This challenge consists of 31 daily problems over the month of May. A problem is
 | 4. | https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3319/  | Bitset       | Easy | `Yes` 
 | 5. | https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3320/  | String/Hashing       | Easy | `No`
 | 6. | https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3321/  | Hashing       | Easy | `Yes`
-| 8. | https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3323/  | Hashing       | Easy | `No`
-| 9. | https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3324/  | Binary Search       | Easy | `Yes`
-| 10. | https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3325/  | Hashing       | Easy | `No`
+| 8. | https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3323/  | Hashing       | Easy | `No`
+| 9. | https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3324/  | Binary Search       | Easy | `Yes`
+| 10. | https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3325/  | Hashing       | Easy | `No`
+| 11. | https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3326/  | DFS       | Easy | `Yes`
